@@ -1,2 +1,2 @@
 # NewGitTest
-Sample
+Sampl file
